@@ -27,7 +27,7 @@ HTML / CSS / BootStrap / JavaScript / Python / Flask / React Native/ Mysql / Mon
 <div align="center">
 Vivência nas ferramentas
 
-VScode / Git / GitHun / Gitlab
+VScode / Git / GitHub / Gitlab
 
 </div>
 <div align="center">
