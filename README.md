@@ -2,7 +2,7 @@
 
 </br>
 
-Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e linguagem de programação, entre elas especificamente JavaScript, tenho um amplo conhecimento em desenvolvimento web utilizando Bootstrap, nodeJs, reactjs e entre outras ferramentas, Possuo conhecimento em metodologias ágeis como SCRUM e KANBAN, tenho curiosidade em aprender novas tecnologias, facilidade para trabalhar em grupo e conhecimento no ramo de Varejo.
+Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e linguagem de programação, mais especificamente JavaScript, tenho um amplo conhecimento em desenvolvimento web utilizando Bootstrap, NodeJs, Reactjs e entre outras ferramentas. Possuo conhecimento em metodologias ágeis como SCRUM e KANBAN, tenho curiosidade em aprender novas tecnologias, facilidade para trabalhar em grupo e experiência no ramo de Varejo.
 </br></br>
 
 <div align="center">
