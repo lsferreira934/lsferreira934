@@ -8,7 +8,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia
 <div align="center">
 Conhecimento nas tecnologias
 
-HTML / CSS / BootStrap / JavaScript / Python / Flask / React Native/ Mysql / MongoDb
+HTML / CSS / BootStrap / JavaScript / ReactJS/ NextJs / Mysql / MongoDb / PostgreSQL
 
 </div>
 <div align="center">
@@ -27,7 +27,7 @@ HTML / CSS / BootStrap / JavaScript / Python / Flask / React Native/ Mysql / Mon
 <div align="center">
 Vivência nas ferramentas
 
-VScode / Git / GitHub / Gitlab
+VScode / Git / GitHub / Gitlab / BitBucket
 
 </div>
 <div align="center">
