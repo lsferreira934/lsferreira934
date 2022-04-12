@@ -1,10 +1,14 @@
 ### Hello, I am Leandro, welcome to my github
 
 </br>
-
-Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e linguagem de programação, mais especificamente JavaScript, tenho um amplo conhecimento em desenvolvimento web utilizando Bootstrap, NodeJs, Reactjs e entre outras ferramentas. Possuo conhecimento em metodologias ágeis como SCRUM e KANBAN, tenho curiosidade em aprender novas tecnologias, facilidade para trabalhar em grupo e experiência no ramo de Varejo.
+Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, tenho um amplo conhecimento em desenvolvimento (web) utilizando Bootstrap, NodeJs, Reactjs e entre outras ferramentas. Possuo conhecimento em metodologias ágeis como SCRUM e KANBAN, tenho curiosidade em aprender novas tecnologias, facilidade para trabalhar em grupo.
 </br></br>
 
+A ambição sem conhecimento é como um barco em terra seca.
+
+-Senhor Miyagi
+
+</br></br>
 <div align="center">
 Conhecimento nas tecnologias
 
