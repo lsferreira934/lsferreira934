@@ -12,7 +12,7 @@ A ambição sem conhecimento é como um barco em terra seca.
 <div align="center">
 Conhecimento nas tecnologias
 
-HTML / CSS / BootStrap / JavaScript / ReactJS/ NextJs / Mysql / MongoDb / PostgreSQL
+HTML / CSS / BootStrap / Tailwind /  JavaScript / ReactJS/ NextJs / Mysql / MongoDb / PostgreSQL / NodeJs
 
 </div>
 <div align="center">
